@@ -26,7 +26,20 @@ WebUI.click(findTestObject('Object Repository/Sign_In'))
 WebUI.delay(3)
 WebUI.click(findTestObject('Object Repository/Training/Program'))
 WebUI.click(findTestObject('Object Repository/Training/M_Training'))
-'Pilih Training yang Sedang Berlangsung'
-WebUI.verifyTextPresent('Training yang Sedang Berlangsung', false)
-WebUI.click(findTestObject('Object Repository/Training/DaftarSekarang'))
-
+WebUI.verifyTextPresent('Jadwal Training dan Workshop Bersertifikasi yang Tersedia', false)
+'Pilih Jadwal Training dan Workshop Bersertifikasi yang Tersedia'
+'Klik Menu View All'
+WebUI.click(findTestObject('Object Repository/Training/ViewAll'))
+WebUI.delay(2)
+'Klik Menu Metrodata Training'
+WebUI.click(findTestObject('Object Repository/Training/Metrodata Training'))
+WebUI.delay(2)
+'Klik Menu Metrodata IT Camp'
+WebUI.click(findTestObject('Object Repository/Training/Metrodata IT Camp'))
+WebUI.delay(2)
+'Klik Menu Metrodata Mengajar'
+WebUI.click(findTestObject('Object Repository/Training/Metrodata Mengajar'))
+WebUI.delay(2)
+'Klik Menu Metrodata Internship'
+WebUI.click(findTestObject('Object Repository/Training/Metrodata Internship'))
+WebUI.delay(2)

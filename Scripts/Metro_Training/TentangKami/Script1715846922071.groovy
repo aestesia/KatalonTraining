@@ -24,9 +24,16 @@ WebUI.setText(findTestObject('Object Repository/Email'), 'boyytesting123@gmail.c
 WebUI.setText(findTestObject('Object Repository/Password'), 'sihombing98')
 WebUI.click(findTestObject('Object Repository/Sign_In'))
 WebUI.delay(3)
-WebUI.click(findTestObject('Object Repository/Training/Program'))
-WebUI.click(findTestObject('Object Repository/Training/M_Training'))
-'Pilih Training yang Sedang Berlangsung'
-WebUI.verifyTextPresent('Training yang Sedang Berlangsung', false)
-WebUI.click(findTestObject('Object Repository/Training/DaftarSekarang'))
-
+WebUI.click(findTestObject('Object Repository/TentangKami/TentangKami'))
+WebUI.verifyTextPresent('Metrodata Academy', false)
+WebUI.verifyTextPresent('Latar Belakang Metrodata Academy', false)
+'Klik 1999'
+WebUI.click(findTestObject('Object Repository/TentangKami/1999'))
+WebUI.delay(2)
+'Klik 2015'
+WebUI.click(findTestObject('Object Repository/TentangKami/2015'))
+WebUI.delay(2)
+'Klik 2020'
+WebUI.click(findTestObject('Object Repository/TentangKami/2020'))
+WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/TentangKami/HomeMetro'))

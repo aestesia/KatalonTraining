@@ -4,8 +4,12 @@
    <name>Tugas Automation</name>
    <tag></tag>
    <UUID>95ca6158-e0be-497f-ac89-bdcf21b97300</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon\Training MII\Finnal\Boyy\KatalonTraining\Tugas Automation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
