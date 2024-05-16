@@ -45,14 +45,12 @@ if(isVisibleSpanUser == true) {
 	'Login Gagal - Email Kosong'
 	WebUI.takeScreenshot()
 	WebUI.closeBrowser()
-	
 }else if(isVisibleSpanPassword == true) {
 	println('Login Gagal - Password Kosong')
 	
 	'Login Gagal - Password Kosong'
 	WebUI.takeScreenshot()	
 	WebUI.closeBrowser()
-	
 }
 else{
 	println('Login Berhasil')

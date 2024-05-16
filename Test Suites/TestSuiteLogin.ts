@@ -39,4 +39,11 @@
          <variableId>9da18bdb-7fc4-4f5b-8585-64954adb5f37</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>ff07f55f-707f-4f97-8fd0-93263bca0c74</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AkunSaya</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
