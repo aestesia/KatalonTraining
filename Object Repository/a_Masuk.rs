@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/header/nav/div[4]/div/a</value>
+         <value>//a[contains(@href, '/sign-in')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca1b99e4-27e2-48d2-b2d0-0e2180dd219f</webElementGuid>
+      <webElementGuid>adb62a62-5963-44bd-a04d-5b7e4e805056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/sign-in</value>
-      <webElementGuid>3042fee5-c73c-48ac-b20b-531f48b9ffc5</webElementGuid>
+      <webElementGuid>0aa39109-ffa9-4419-8f6d-9e5abd0cfc34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white</value>
-      <webElementGuid>1dfa37d3-a7ff-4b0d-9f70-adc27964f5fe</webElementGuid>
+      <webElementGuid>d6b849a4-475d-4f9e-915d-77d617b162de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>5a33b3bc-f58d-48d3-b3d5-e9fdaf8f705e</webElementGuid>
+      <webElementGuid>be8da516-e20a-484f-b4e3-a369770bbcee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;hidden gap-6 my-4 ml- xl:flex xl:flex-1 xl:justify-end&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row items-center&quot;]/a[@class=&quot;block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white&quot;]</value>
-      <webElementGuid>07be9bb8-9c56-43aa-842d-193d8f0523b5</webElementGuid>
+      <webElementGuid>17b463c3-cad6-4815-b644-9a59276c45e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/header/nav/div[4]/div/a</value>
-      <webElementGuid>f0c135fe-b18b-4018-ab43-47617e5a32d0</webElementGuid>
+      <webElementGuid>086f131d-2ddf-478c-b839-dac09e3f2e08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>f366b054-e00f-4c45-a8ac-aed2b5be0245</webElementGuid>
+      <webElementGuid>a9ea77f7-8be5-4372-a251-d6875c26028f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
-      <webElementGuid>f00a9300-ca8d-4dfa-9aef-cc34040b50ee</webElementGuid>
+      <webElementGuid>14381832-7870-42d8-9511-db0b57978038</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::a[3]</value>
-      <webElementGuid>57c9eb56-8cdc-4a9f-a691-0e1eceffb820</webElementGuid>
+      <webElementGuid>cb48a84f-d9b4-44cc-b202-dd64ecea4012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[1]</value>
-      <webElementGuid>b6323a67-c2ba-414a-895b-02d6902f8a81</webElementGuid>
+      <webElementGuid>80dd74af-55b4-4f17-9289-52db98e8c8d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>05867050-bf43-4f72-97c7-4d85c3f95b31</webElementGuid>
+      <webElementGuid>1e20b417-f849-4486-b843-154655d80c87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/sign-in')]</value>
-      <webElementGuid>931a88bc-ad39-4f2c-bc9d-c7122649d626</webElementGuid>
+      <webElementGuid>daacf448-12f4-4804-bab0-b0b26332be87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/a</value>
-      <webElementGuid>a1f7b391-7be6-48f6-8109-a7c1bd693166</webElementGuid>
+      <webElementGuid>d55aea62-1b3a-461a-8e68-5553fbbbd101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/sign-in' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>b7f893a6-f1f6-4ef7-b018-d3f12d647b7f</webElementGuid>
+      <webElementGuid>5618fe4d-3d7b-405f-8270-a84670aebe5e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

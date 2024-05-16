@@ -50,17 +50,17 @@ String Password = findTestData(pathData).getValue('Password', 1)
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://metrodataacademy.id/')
-//WebUI.maximizeWindow()
+WebUI.maximizeWindow()
 
 'Berhasil Membuka Halaman Website Metrodata Academy\r\n'
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/button_tiga'))
+WebUI.click(findTestObject('Object Repository/a_Masuk'))
 
 'Klik Garis Tiga Atas Kemudian Klik Button Login'
 WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/button_sign in'))
+//WebUI.click(findTestObject('Object Repository/button_sign in'))
 
 WebUI.setText(findTestObject('Object Repository/input__email'), Email)
 
@@ -73,7 +73,25 @@ WebUI.click(findTestObject('Object Repository/button_Masuk'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/button_mengajar'))
+WebUI.maximizeWindow()
+//WebUI.click(findTestObject('Object Repository/button_artikel'))
+//
+//WebUI.click(findTestObject('Object Repository/klik_headline'))
+//
+//String Email2 = findTestData(pathData).getValue('Email', 2)
+//
+//String Nama2 = findTestData(pathData).getValue('Nama', 2)
+//
+//WebUI.setText(findTestObject('Object Repository/subscribe_nama'), Nama2)
+//
+//WebUI.setText(findTestObject('Object Repository/subscribe_email'), Email2)
+//
+//WebUI.click(findTestObject('Object Repository/button_subscribe'))
+
+WebUI.navigateToUrl('https://metrodataacademy.id/article')
+
+WebUI.click(findTestObject('Object Repository/page2'))
+WebUI.click(findTestObject('Object Repository/page3'))
 
 //if (WebUI.verifyElementVisible(findTestObject('Btn_Lihat Program'))) {
 //	println('Login Berhasil - Positif')
