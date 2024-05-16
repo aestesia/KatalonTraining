@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Keluar</name>
+   <name>span_Email wajib diisi</name>
    <tag></tag>
-   <elementGuidId>80d1b3f9-3f07-4488-b09e-1c6f0210c3fe</elementGuidId>
+   <elementGuidId>d6719c93-56d3-457a-9e64-d40da6d165e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='headlessui-popover-panel-:ri:']/div/button</value>
+         <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>span.text-red-500</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e6b2847d-2fa9-4ac0-bb47-00043a1b3199</webElementGuid>
+      <value>span</value>
+      <webElementGuid>96071c9b-2dbe-4097-822d-22b160a88ffd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>block w-full px-4 py-2 text-sm text-left text-gray-700 hover:bg-gray-100</value>
-      <webElementGuid>cb01ed73-ceb3-4a5a-be80-059f30c3f90e</webElementGuid>
+      <value>text-red-500</value>
+      <webElementGuid>dc27d9fd-60f5-4ff1-8393-f4eec0128699</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Keluar </value>
-      <webElementGuid>d29c7192-44d5-44b4-8a63-6b301e6fe620</webElementGuid>
+      <value>Email wajib diisi</value>
+      <webElementGuid>d0fd4b30-910d-4613-a235-663b00a640ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;headlessui-popover-panel-:ri:&quot;)/div[@class=&quot;py-1&quot;]/button[@class=&quot;block w-full px-4 py-2 text-sm text-left text-gray-700 hover:bg-gray-100&quot;]</value>
-      <webElementGuid>d0999e28-9c3c-47d3-88ab-f6bcf412da30</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid h-screen grid-cols-1 lg:grid-cols-2&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-10&quot;]/div[@class=&quot;flex flex-col justify-center w-screen p-8 lg:w-3/4 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[23px]&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex mt-4 text-sm&quot;]/span[@class=&quot;text-red-500&quot;]</value>
+      <webElementGuid>1fcb0796-bb4c-4946-842f-31f78eac5392</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='headlessui-popover-panel-:ri:']/div/button</value>
-      <webElementGuid>20f7c5a2-6f61-49ea-8908-f27323c583bf</webElementGuid>
+      <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/span</value>
+      <webElementGuid>73d53cda-bc43-4f7a-a5a6-598caa78dc26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akun Saya'])[1]/following::button[1]</value>
-      <webElementGuid>03e5bc68-5a76-4701-b4f6-54f83f4a7239</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>0f7a04ab-1093-4175-93e9-4c1e6720687e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timothy Hutson'])[1]/following::button[1]</value>
-      <webElementGuid>f81cda29-c4b0-4105-b08d-2105ee0b131e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>b6e0711d-4934-423e-884a-d57e71213259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/preceding::button[1]</value>
-      <webElementGuid>f85851ba-1eda-44ab-ace0-3aacd1b9a7a1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Keluar']/parent::*</value>
-      <webElementGuid>e59c1fc1-4fb0-4a95-831e-1383523fde99</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Email wajib diisi']/parent::*</value>
+      <webElementGuid>7e6f4bb2-73cc-4043-829c-0b14cc525df7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/button</value>
-      <webElementGuid>e2e5b226-161d-4b87-bb7d-cc6e99bbb3ff</webElementGuid>
+      <value>//div[2]/span</value>
+      <webElementGuid>e23ac369-e4a1-44f1-9ee5-80fd775e7125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Keluar ' or . = 'Keluar ')]</value>
-      <webElementGuid>f949ebde-248c-44a5-903b-325d8b95b329</webElementGuid>
+      <value>//span[(text() = 'Email wajib diisi' or . = 'Email wajib diisi')]</value>
+      <webElementGuid>780526f7-19ae-4b7e-a2e0-653c61341760</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

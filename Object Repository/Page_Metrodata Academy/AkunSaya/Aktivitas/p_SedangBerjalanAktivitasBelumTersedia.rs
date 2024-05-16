@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_SedangBerjalanAktivitasBelumTersedia</name>
+   <tag></tag>
+   <elementGuidId>3db0f929-787e-4160-be0c-c559a6037a9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div[2]/div[3]/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-center.col-span-3.text-slate-300.text-xl.font-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>32c38072-5c64-4575-96e3-1844b43b985f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center col-span-3 text-slate-300 text-xl font-medium</value>
+      <webElementGuid>84da0a2c-7ee9-4bce-a4af-082e2dac6d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aktivitas belum tersedia</value>
+      <webElementGuid>cfbfba09-c65a-4d0e-910a-23bc4dfb52c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[@class=&quot;mx-auto lg:pb-24 sm:py-0 gap-y-5&quot;]/div[@class=&quot;mx-auto flex flex-col sm:flex-row gap-x-[35px] sm:items-start&quot;]/div[1]/div[@class=&quot;flex flex-col gap-[30px]&quot;]/div[3]/div[@class=&quot;flex flex-col gap-[30px]&quot;]/div[@class=&quot;mt-[30px] mb-5 grid grid-cols-1 md:grid-cols-3 gap-y-5 gap-x-[18px]&quot;]/p[@class=&quot;text-center col-span-3 text-slate-300 text-xl font-medium&quot;]</value>
+      <webElementGuid>2365002e-2e69-42a6-bfbc-aa60ee33aadd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div[2]/div[3]/div/div[2]/p</value>
+      <webElementGuid>d1c1ff08-1647-4fa7-a7f7-32011451de79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Berjalan'])[1]/following::p[1]</value>
+      <webElementGuid>287325a2-a82d-4be1-be2d-9d0345138707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Webinar'])[2]/following::p[1]</value>
+      <webElementGuid>dd0d3a1e-e30a-42fd-a2f8-e6a259704903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kegiatan Mendatang'])[1]/preceding::p[1]</value>
+      <webElementGuid>12940714-868c-41ef-a466-71e061f0bdc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::p[2]</value>
+      <webElementGuid>5ee1a40b-5ee7-4d80-9517-378b39feb774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aktivitas belum tersedia']/parent::*</value>
+      <webElementGuid>143a3e7d-5427-4a91-8060-a0bfab9e9e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div/div[2]/p</value>
+      <webElementGuid>8a8e5b6f-5a1d-42f2-a32d-02b76b26cca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Aktivitas belum tersedia' or . = 'Aktivitas belum tersedia')]</value>
+      <webElementGuid>885c8f3a-227a-47a8-ab71-5c4d51d9f9d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Masuk</name>
+   <name>button_Simpan</name>
    <tag></tag>
-   <elementGuidId>dba737e8-35ca-48aa-954d-b6c7c771c956</elementGuidId>
+   <elementGuidId>743206ea-97d2-4f77-89a0-672ca71179d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e1352198-354f-473d-a0e6-fe60a46a378b</webElementGuid>
+      <webElementGuid>d02d5844-2736-4285-99c8-38c6c9492e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,31 +30,31 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>f2c4d546-118a-4706-bc29-b3cf3051fba3</webElementGuid>
+      <webElementGuid>ccf53515-8ed7-47a9-9538-423346ef485a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-full px-8 py-4 font-sans text-base font-medium leading-4 text-center text-white rounded-md cursor-pointer hover:bg-cerulean-700 bg-cerulean-600</value>
-      <webElementGuid>4fbdec5a-92f1-440b-85bc-b600eef19f06</webElementGuid>
+      <value>rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500</value>
+      <webElementGuid>4008aba2-3f43-4aa0-b4fd-597bb8f104f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>e43c356b-765f-473d-96c0-7741f0fdc2e4</webElementGuid>
+      <value>Simpan</value>
+      <webElementGuid>e9a69cb0-19da-40d8-af68-52c8d1339233</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid h-screen grid-cols-1 lg:grid-cols-2&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-10&quot;]/div[@class=&quot;flex flex-col justify-center w-screen p-8 lg:w-3/4 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[23px]&quot;]/div[@class=&quot;flex gap-[10px]&quot;]/button[@class=&quot;w-full px-8 py-4 font-sans text-base font-medium leading-4 text-center text-white rounded-md cursor-pointer hover:bg-cerulean-700 bg-cerulean-600&quot;]</value>
-      <webElementGuid>f43411c9-a6ba-40ef-8e65-fb4b6025c85a</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[2]/form[@class=&quot;pb-8 divide-y divide-[#5D5D5D] lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 py-8 max-w-7xl lg:py-10 md:grid-cols-3 gap-[30px]&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;flex mt-8&quot;]/button[@class=&quot;rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500&quot;]</value>
+      <webElementGuid>acc4f505-5430-4575-b4aa-fc2103c98ad0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,62 +62,62 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>7413127e-0127-448f-a2ef-55af36b5604b</webElementGuid>
+      <webElementGuid>16473a41-2074-4da0-abca-253797f3d3f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div/form/div[3]/button</value>
-      <webElementGuid>2c158c4f-e915-4258-8466-06aa28bae311</webElementGuid>
+      <value>//div[@id='root']/div/div/div/div[2]/form/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>2e129264-3485-472b-a827-f970959c0299</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/following::button[1]</value>
-      <webElementGuid>26bff105-3455-4430-939d-496d9522e74d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::button[1]</value>
+      <webElementGuid>1ab2885f-f2fb-43b1-a560-09890d9d2fe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingat saya'])[1]/following::button[1]</value>
-      <webElementGuid>369edd73-6895-42ed-8286-9e917b29ea65</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footer'])[1]/preceding::button[1]</value>
+      <webElementGuid>b24b2dff-0f12-4ecc-971d-4af1541cf3e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/preceding::button[1]</value>
-      <webElementGuid>f0e8916c-e153-45da-a4c0-455acacecb32</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>245b4544-cf6d-487c-87e7-c38ec35d01e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>3d4bf1b9-c5ad-4434-8a78-d0ee4be65ff5</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Simpan']/parent::*</value>
+      <webElementGuid>f5279f0c-79e4-4a89-bde0-de7c10e205a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>1d648662-667a-47fa-91ef-6db7fb35d835</webElementGuid>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>587e882b-98af-44df-9d8f-19fc1e27ace8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>9a400972-28dd-4104-85ff-8bebae50826e</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Simpan' or . = 'Simpan')]</value>
+      <webElementGuid>ca31c0af-bab5-4b36-b487-3237451f77f0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

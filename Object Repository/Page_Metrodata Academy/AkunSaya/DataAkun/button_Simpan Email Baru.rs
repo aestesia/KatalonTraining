@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Email Baru</name>
+   <tag></tag>
+   <elementGuidId>ec06b570-f252-4d5e-a6e7-12c915da9f67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95c79a27-1d10-4452-9f3f-bdf9fb67efed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84f505d0-d928-493d-b3ea-ab2a1f301c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500</value>
+      <webElementGuid>40f5ba1e-2455-4895-82b8-4f02738a4bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan Email Baru</value>
+      <webElementGuid>6e9b6865-dcfd-45ee-82d1-269875be26ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[@class=&quot;pb-8 divide-y divide-gray-600 lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 pb-8 lg:pb-10 max-w-7xl md:grid-cols-3&quot;]/form[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 sm:grid-cols-6&quot;]/div[@class=&quot;col-span-full&quot;]/div[@class=&quot;flex mt-5&quot;]/button[@class=&quot;rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500&quot;]</value>
+      <webElementGuid>bfd9c571-7f8d-42f7-a31b-1bddd53dc2a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>bbb0c4cf-d51c-4318-8812-53b1b173ed6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/form/div/div[5]/div[2]/button</value>
+      <webElementGuid>84d95044-9d79-42f4-a33d-5941e1882a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Secondary Email'])[1]/following::button[1]</value>
+      <webElementGuid>6e634bbc-b30f-42ea-b093-b9fb18c5a831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/following::button[1]</value>
+      <webElementGuid>17d8811f-f836-45da-b253-141c7ef12992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::button[1]</value>
+      <webElementGuid>f1692b9f-1ad3-4ffe-95a9-dc3d130d1fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password Lama'])[1]/preceding::button[1]</value>
+      <webElementGuid>843eee35-f4db-4b10-9025-f5438c20be65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Email Baru']/parent::*</value>
+      <webElementGuid>5034f963-5636-4f05-add2-1140cfb4a709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>e9752174-df94-4c04-a1da-e698d2e20058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Simpan Email Baru' or . = 'Simpan Email Baru')]</value>
+      <webElementGuid>4a218592-5631-411d-9e0b-18628e8b8415</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

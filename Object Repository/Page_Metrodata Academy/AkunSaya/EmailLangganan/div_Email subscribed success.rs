@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email subscribed success</name>
+   <tag></tag>
+   <elementGuidId>13673b96-4421-45ae-b582-e3d582b227f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/ol/li[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ca7a815-1d7c-4bfb-8719-5f6501fb643d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email subscribed success</value>
+      <webElementGuid>7991bec1-af53-4c50-9d9d-d744324efd51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[1]/ol[1]/li[2]/div[2]/div[1]</value>
+      <webElementGuid>abb6cf9e-7325-48dd-ac34-26b8914a57f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/ol/li[2]/div[2]/div</value>
+      <webElementGuid>8b2f8a87-07bc-421a-bd33-4836e6d706fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email unsubscribe success'])[1]/following::div[3]</value>
+      <webElementGuid>394fc62c-7900-49ac-aedb-d2f8ae63a6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metrodata Academy'])[2]/preceding::div[1]</value>
+      <webElementGuid>018c2440-897c-4f04-b9f9-f70ea9d49647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open menu'])[1]/preceding::div[2]</value>
+      <webElementGuid>93f6c47b-fff4-40d9-8689-c475d05e2c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email subscribed success']/parent::*</value>
+      <webElementGuid>fa923fda-37a6-480f-92a2-7b8700b05665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div[2]/div</value>
+      <webElementGuid>9ebe4194-8a6b-4a0d-b479-c711ca84ec43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email subscribed success' or . = 'Email subscribed success')]</value>
+      <webElementGuid>c4c6855f-2041-4deb-9928-7f31455b0e3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

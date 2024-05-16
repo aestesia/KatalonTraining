@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Masuk</name>
+   <name>a_Profil</name>
    <tag></tag>
-   <elementGuidId>36d61a83-3f7c-49a7-8399-bec1397fd4b0</elementGuidId>
+   <elementGuidId>726e9b06-2be4-489b-b705-34500aecc35c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div/header/nav/div[4]/div/a</value>
+         <value>//div[@id='root']/div/div/div/ul/li/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.text-xl.font-medium.leading-6.text-blue-600</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,55 +22,63 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ca1b99e4-27e2-48d2-b2d0-0e2180dd219f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/sign-in</value>
-      <webElementGuid>3042fee5-c73c-48ac-b20b-531f48b9ffc5</webElementGuid>
+      <webElementGuid>68774da8-341f-484f-8c06-7268c1421864</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white</value>
-      <webElementGuid>1dfa37d3-a7ff-4b0d-9f70-adc27964f5fe</webElementGuid>
+      <value>text-xl font-medium leading-6 text-blue-600</value>
+      <webElementGuid>0f9e3db5-2ef4-474e-b482-c3b49de2a8b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile</value>
+      <webElementGuid>e2f28b0a-50c5-49eb-8a13-32f5289bfe41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Masuk</value>
-      <webElementGuid>5a33b3bc-f58d-48d3-b3d5-e9fdaf8f705e</webElementGuid>
+      <value>Profil</value>
+      <webElementGuid>d7c3fd41-78da-417a-b5cb-4c66b507bbc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/header[@class=&quot;fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-white/40 to-white/20 sm:z-40 drop-shadow-lg backdrop-blur-lg&quot;]/nav[@class=&quot;flex items-center justify-between lg:px-[108px] xl:py-2 xl:h-[92px] py-6 px-8 xl:justify-center&quot;]/div[@class=&quot;hidden gap-6 my-4 ml- xl:flex xl:flex-1 xl:justify-end&quot;]/div[@class=&quot;flex flex-col gap-4 lg:flex-row items-center&quot;]/a[@class=&quot;block px-4 py-[14px] text-sm xl:text-base font-medium leading-4 transition-color hover:text-cerulean-600 text-white&quot;]</value>
-      <webElementGuid>07be9bb8-9c56-43aa-842d-193d8f0523b5</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/ul[@class=&quot;shrink-0 p-10 pl-5 border rounded-lg hidden sm:grid sm:grid-cols-1 sm:gap-y-[30px] shadow-md&quot;]/li[@class=&quot;hover:text-blue-600&quot;]/a[@class=&quot;text-xl font-medium leading-6 text-blue-600&quot;]</value>
+      <webElementGuid>b0b9d516-a6cb-4ebf-9bb9-ced9775b05b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/header/nav/div[4]/div/a</value>
-      <webElementGuid>f0c135fe-b18b-4018-ab43-47617e5a32d0</webElementGuid>
+      <value>//div[@id='root']/div/div/div/ul/li/a</value>
+      <webElementGuid>c3c421ac-4db8-4173-a0c6-eb0b4873d5c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Masuk')]</value>
-      <webElementGuid>f366b054-e00f-4c45-a8ac-aed2b5be0245</webElementGuid>
+      <value>//a[contains(text(),'Profil')]</value>
+      <webElementGuid>5b329fda-ef4d-4f44-ac72-ae1a0e6af516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timothy Hutson'])[1]/following::a[1]</value>
+      <webElementGuid>15da7a11-8e96-4c34-9180-7cc8321d5179</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,54 +86,54 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
-      <webElementGuid>f00a9300-ca8d-4dfa-9aef-cc34040b50ee</webElementGuid>
+      <webElementGuid>52863a8d-91b4-4121-a59a-8fbb9faaaea7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artikel'])[1]/following::a[3]</value>
-      <webElementGuid>57c9eb56-8cdc-4a9f-a691-0e1eceffb820</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Akun'])[1]/preceding::a[1]</value>
+      <webElementGuid>6bf98569-1b74-4478-9d1d-2abaa2df9aeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::a[1]</value>
-      <webElementGuid>b6323a67-c2ba-414a-895b-02d6902f8a81</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Langganan'])[1]/preceding::a[2]</value>
+      <webElementGuid>362a9fee-4080-4b96-a088-9bfd18bcb035</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
-      <webElementGuid>05867050-bf43-4f72-97c7-4d85c3f95b31</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Profil']/parent::*</value>
+      <webElementGuid>63bf6110-703a-41f2-8ade-f503a43bcd9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/sign-in')]</value>
-      <webElementGuid>931a88bc-ad39-4f2c-bc9d-c7122649d626</webElementGuid>
+      <value>//a[contains(@href, '/profile')]</value>
+      <webElementGuid>e0980f27-8f5d-467e-a7a8-6c4f3cf02c06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div/a</value>
-      <webElementGuid>a1f7b391-7be6-48f6-8109-a7c1bd693166</webElementGuid>
+      <value>//li/a</value>
+      <webElementGuid>84ee7af8-11d5-40c6-bef3-dc4ffcd80eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/sign-in' and (text() = 'Masuk' or . = 'Masuk')]</value>
-      <webElementGuid>b7f893a6-f1f6-4ef7-b018-d3f12d647b7f</webElementGuid>
+      <value>//a[@href = '/profile' and (text() = 'Profil' or . = 'Profil')]</value>
+      <webElementGuid>dfdb4e82-33eb-4c56-b96a-bbc0dac6f538</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

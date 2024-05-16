@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Jadikan Utama</name>
+   <tag></tag>
+   <elementGuidId>5f08649a-aee8-4fe3-9f4a-0aa23f354f89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>445bef9d-677f-4a2f-98dc-1b9a7e51c025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>18437b17-81dc-477f-99d9-9189842ca086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500</value>
+      <webElementGuid>4832624c-2122-4b2a-bd45-58c0338c965b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jadikan Utama</value>
+      <webElementGuid>b025f6f4-88ea-4a85-a1ba-43c0d4ca5548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[@class=&quot;pb-8 divide-y divide-gray-600 lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 pb-8 lg:pb-10 max-w-7xl md:grid-cols-3&quot;]/form[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 sm:grid-cols-6&quot;]/div[@class=&quot;flex col-span-full gap-x-5&quot;]/button[@class=&quot;rounded-md bg-cerulean-600 px-5 py-2.5 text-base font-semibold text-white shadow-sm hover:bg-cerulean-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cerulean-500&quot;]</value>
+      <webElementGuid>97893da3-0a27-44d9-aff6-8fd561b078e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>0a48c70d-0bdf-49e6-8821-81e9b3950f63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/form/div/div[4]/button</value>
+      <webElementGuid>3a111862-0b55-4316-ae8c-712c8ba18066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secondary Email'])[1]/following::button[1]</value>
+      <webElementGuid>a5fe6463-804c-4b63-93e2-b913e117ffa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>69f48faf-5b92-4cda-ade5-d3b0abca4043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::button[1]</value>
+      <webElementGuid>0c80059e-d2eb-4057-84ed-7ab6b60568b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Secondary Email'])[1]/preceding::button[2]</value>
+      <webElementGuid>076d33fa-6199-4384-b473-c2d98d10cfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jadikan Utama']/parent::*</value>
+      <webElementGuid>c0ff84f0-0bfa-4d69-80d1-0eeb722ae73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>67060d11-128f-450d-b947-d6748f698a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Jadikan Utama' or . = 'Jadikan Utama')]</value>
+      <webElementGuid>d546ce67-2933-4024-b674-1f6fb5ab1d73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

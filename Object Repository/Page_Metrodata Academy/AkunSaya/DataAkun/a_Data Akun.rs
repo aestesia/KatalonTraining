@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Akun</name>
+   <tag></tag>
+   <elementGuidId>64f7062a-2541-48f4-b5dd-41878e69a9a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-xl.font-medium.leading-6.text-blue-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>050cc0a7-ff05-4206-9fd2-298856a228f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl font-medium leading-6 text-blue-600</value>
+      <webElementGuid>69cf85fa-69b8-4a90-a65e-13361e9f9f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile</value>
+      <webElementGuid>36c99252-6ad2-4b1b-8284-7d2aeb205894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Akun</value>
+      <webElementGuid>16c6761f-76c1-4f40-8039-fc7d6415e6e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/ul[@class=&quot;shrink-0 p-10 pl-5 border rounded-lg hidden sm:grid sm:grid-cols-1 sm:gap-y-[30px] shadow-md&quot;]/li[@class=&quot;hover:text-blue-600&quot;]/a[@class=&quot;text-xl font-medium leading-6 text-blue-600&quot;]</value>
+      <webElementGuid>fc449961-0c65-4a44-b00a-ffe717668dea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>b4e88adc-d054-44c5-b7a0-3adc5c0c78fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Data Akun')]</value>
+      <webElementGuid>c13ada67-386a-4a96-8b37-c12ca4ad4eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::a[1]</value>
+      <webElementGuid>6b0d2877-01ee-4874-9e0e-be3a20a9a652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timothy Hutson'])[1]/following::a[2]</value>
+      <webElementGuid>5d27958c-3c62-4baf-aa3c-e1393438c040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Langganan'])[1]/preceding::a[1]</value>
+      <webElementGuid>4c897cf7-525c-4d2c-9525-91b7d05d0b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivitas'])[1]/preceding::a[2]</value>
+      <webElementGuid>e89e0633-c47f-4ff0-b887-71a05a5caf1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Akun']/parent::*</value>
+      <webElementGuid>7ed99398-8159-4896-a6b3-69e52bd95c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/profile')])[2]</value>
+      <webElementGuid>2ba9f832-12bb-41d7-9b2c-53ffbfd21fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>c1e629a1-b84d-4153-836b-2b1fc5b369a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile' and (text() = 'Data Akun' or . = 'Data Akun')]</value>
+      <webElementGuid>4e36a8eb-a701-406e-ba9f-c6d2fed53113</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
