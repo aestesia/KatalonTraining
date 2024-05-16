@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_mengajar</name>
+   <name>select_filter</name>
    <tag></tag>
-   <elementGuidId>c2d0881a-f04a-4e03-9cd0-1ac078230c3f</elementGuidId>
+   <elementGuidId>fac9167e-7647-4888-93e4-941ad7ed9261</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@href = '/metrodata-mengajar' and (text() = 'Detail' or . = 'Detail')]</value>
+         <value>//div[@id='root']/div/div/div[2]/form/div/div/select</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

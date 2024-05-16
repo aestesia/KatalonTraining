@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__email</name>
+   <name>input_email</name>
    <tag></tag>
    <elementGuidId>0759747c-d92a-4d6b-8cb1-5d6f5a2981b0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;email&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;email&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
