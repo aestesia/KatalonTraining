@@ -17,5 +17,67 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
 
+WebUI.navigateToUrl('https://metrodataacademy.id/')
+
+WebUI.maximizeWindow()
+
+'Buka webpage'
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/a_Masuk'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__email'), 'timothyhudson23@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__password'), 'IGHOxYmcYdeXBupIKMuP1g==')
+
+'Isi Username & Password'
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__remember-me'))
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/button_Masuk'))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/svg_Timothy Hutson_w-5 h-5 ml-1'))
+
+'Click Akun Saya'
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/DataAkun/AkunSaya/a_Akun Saya'))
+
+"Isi Data Profil"
+//WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/DataAkun/Page_Metrodata Academy/input__firstName'), 
+//    'Timothy')
+
+//WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/DataAkun/Page_Metrodata Academy/input__lastName'), 
+//    'Hutson')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Jenis Kelamin'), 
+    'L', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/input__phoneNumber'), 
+    '812345678990')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Provinsi'), 
+    '32', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Kota'), 
+    '3275', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/textarea_Alamat_address'), 
+    'tes123456788')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Kategori'), 
+    'PROFESSIONAL', true)
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/input__company'), 
+    'Metrodata')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Posisi'), 
+    '4b486aff-252d-4056-80b4-6e663378b0ce', true)
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/button_Simpan'))
 

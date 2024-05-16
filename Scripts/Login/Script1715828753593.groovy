@@ -23,6 +23,9 @@ WebUI.navigateToUrl('https://metrodataacademy.id/')
 
 WebUI.maximizeWindow()
 
+'Berhasil buka webpage'
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/a_Masuk'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__email'), username)

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//select[@id='gender']</value>
+         <value>//*[@id=&quot;gender&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>5bd2ecfa-17a9-41e7-b3e7-e08fff3f1b33</webElementGuid>
+      <webElementGuid>ce0f2ec4-463d-485b-b6af-266e9bb0538b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>gender</value>
-      <webElementGuid>d15d8d02-5029-4583-9b14-533b4f7f53c5</webElementGuid>
+      <webElementGuid>9a295d0c-ca71-4487-bb0b-569031388f33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>gender</value>
-      <webElementGuid>002819eb-dd22-44f8-bbb2-cfb636ba5467</webElementGuid>
+      <webElementGuid>34519b20-f615-4bc3-8ab8-0b213888f05b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Pilih Jenis Kelamin</value>
-      <webElementGuid>14093b81-05b9-4294-8216-57aac16ad2b7</webElementGuid>
+      <webElementGuid>02b9d066-a20a-4b85-8e4d-245e328a9ead</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block flex-1 border-0 bg-transparent py-[14px] px-5 text-gray-900 placeholder:text-gray-400 focus:ring-0 sm:text-base sm:leading-6</value>
-      <webElementGuid>7d3d6235-52fa-4b22-8784-363405edb16a</webElementGuid>
+      <webElementGuid>69c8f8a6-f8bc-4095-94c8-b2a0cbba92b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih Jenis KelaminLaki-LakiPerempuan</value>
-      <webElementGuid>e513b7a3-239f-46d6-957f-128ee73bdcb4</webElementGuid>
+      <webElementGuid>1f3ba37e-eb5e-40f6-9ddb-24cfa34686ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gender&quot;)</value>
-      <webElementGuid>b6c44663-20d2-4f37-a94d-0b37c088b605</webElementGuid>
+      <webElementGuid>5bd28f36-8e9f-4390-ba18-4a3530b99345</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='gender']</value>
-      <webElementGuid>d65687a9-f04c-4c75-80ac-a17aa6c10334</webElementGuid>
+      <webElementGuid>2866fc3f-d203-4a9f-966a-1a1c5892ee42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[5]/div/div/select</value>
-      <webElementGuid>e22453f0-1746-456d-9e65-8223c355299b</webElementGuid>
+      <webElementGuid>7d493716-e144-4fd8-961d-f29f84661585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
-      <webElementGuid>3025c7e7-eeb1-4864-8009-12314a82146f</webElementGuid>
+      <webElementGuid>176eaba1-051b-41bf-9090-84966db18582</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
-      <webElementGuid>47e599d2-b20e-4a87-81d5-b23434d0060c</webElementGuid>
+      <webElementGuid>beb1a792-51f5-463a-a9c0-83ed8a89f16b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>106ad166-6a9f-4a29-9736-d158e5bb1ff4</webElementGuid>
+      <webElementGuid>4644acca-6402-4537-890a-3255623b1869</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'gender' and @name = 'gender' and @placeholder = 'Pilih Jenis Kelamin' and (text() = 'Pilih Jenis KelaminLaki-LakiPerempuan' or . = 'Pilih Jenis KelaminLaki-LakiPerempuan')]</value>
-      <webElementGuid>e521956a-dc1c-4e99-95c8-ddd20ee061ef</webElementGuid>
+      <webElementGuid>acc60741-5a50-4e53-9617-da557a6db41c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
