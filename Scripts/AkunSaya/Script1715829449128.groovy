@@ -60,6 +60,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Acade
 
 WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/input__phoneNumber'), 
     '812345678990')
+WebUI.takeScreenshot()
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Provinsi'), 
     '32', true)
@@ -72,6 +73,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/select_Pilih Kategori'), 
     'PROFESSIONAL', true)
+WebUI.takeScreenshot()
 
 WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/input__company'), 
     'Metrodata')
@@ -80,4 +82,13 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Metrodata Acade
     '4b486aff-252d-4056-80b4-6e663378b0ce', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/AkunSaya/Profil/button_Simpan'))
+
+WebUI.verifyTextPresent('Berhasil memperbarui profil', false, FailureHandling.CONTINUE_ON_FAILURE)
+'Click Button Simpan'
+WebUI.takeScreenshot()
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
+
 
