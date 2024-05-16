@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Jenis kelamin wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>0ff96aa0-aa24-4f1e-872e-46de45db5ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.block.text-sm.font-medium.leading-6.text-red-600</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[5]/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6a90c3b1-5028-4e54-8fa9-95519303c6d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block text-sm font-medium leading-6 text-red-600</value>
+      <webElementGuid>68269ad2-5ef0-42c4-b3f9-e4c623a303df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jenis kelamin wajib diisi</value>
+      <webElementGuid>f6097660-95e4-47db-bcc0-ca54b12c11c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[2]/form[@class=&quot;pb-8 divide-y divide-[#5D5D5D] lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 pb-8 lg:pb-10 max-w-7xl md:grid-cols-3 gap-[30px]&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:px-0 sm:grid-cols-6&quot;]/div[@class=&quot;col-span-3 sm:col-span-full&quot;]/div[2]/p[@class=&quot;block text-sm font-medium leading-6 text-red-600&quot;]</value>
+      <webElementGuid>e3eee95a-c270-4368-a399-1d205e143e64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[5]/div[2]/p</value>
+      <webElementGuid>b4e15385-560f-4327-886c-85d37f6a99f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::p[1]</value>
+      <webElementGuid>23b5721b-06bd-4b51-98d9-46aa9b79756c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::p[1]</value>
+      <webElementGuid>d426f1a6-97d4-4337-b98d-4d3eea670d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jenis kelamin wajib diisi']/parent::*</value>
+      <webElementGuid>4d4e207b-58e3-45e2-8f83-08946ed7fcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/p</value>
+      <webElementGuid>3808c7b9-760b-473a-b03b-1fbc3d650131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Jenis kelamin wajib diisi' or . = 'Jenis kelamin wajib diisi')]</value>
+      <webElementGuid>9e8b17e0-8e3d-4e1e-b14a-41b908cd3b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

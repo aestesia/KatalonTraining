@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nama Depan wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>2ed4ee7c-5f0b-44d1-9f77-22140160f9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-red-500</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[2]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d1ef4b8-8033-40a0-a68d-d8e8d59c3ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500</value>
+      <webElementGuid>ff3408b1-e205-4843-aab4-acbb2315bbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Depan wajib diisi</value>
+      <webElementGuid>015129a0-0375-41a7-a6d9-4e8735ec7808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[2]/form[@class=&quot;pb-8 divide-y divide-[#5D5D5D] lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 pb-8 lg:pb-10 max-w-7xl md:grid-cols-3 gap-[30px]&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:px-0 sm:grid-cols-6&quot;]/div[@class=&quot;col-span-3&quot;]/div[@class=&quot;flex flex-col items-start gap-2&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex mt-4 text-sm&quot;]/span[@class=&quot;text-red-500&quot;]</value>
+      <webElementGuid>cc4973fb-64a4-407f-a2f9-6430e239369f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[2]/div/div/div[2]/span</value>
+      <webElementGuid>b411a942-1a01-40e6-af40-90f457c52b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>0cd8a238-c8de-48d1-994e-2018bcde1614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>f8818abe-ce83-46ba-bcbe-a86da3e59a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Depan wajib diisi']/parent::*</value>
+      <webElementGuid>7b6f3b1e-a2ee-4769-bb8e-c463fec66e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>6780a3b0-9273-4a12-a804-427f23a504e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nama Depan wajib diisi' or . = 'Nama Depan wajib diisi')]</value>
+      <webElementGuid>8caa33d1-a886-4c22-8ae8-69430990294e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

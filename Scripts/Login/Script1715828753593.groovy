@@ -17,3 +17,60 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://metrodataacademy.id/')
+
+WebUI.maximizeWindow()
+
+'Berhasil buka webpage'
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/a_Masuk'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__email'), username)
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__password'), password)
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/input__remember-me'))
+
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/button_Masuk'))
+
+boolean isVisibleSpanUser 		= WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Metrodata Academy/Login/span_Email wajib diisi'),2, FailureHandling.OPTIONAL)
+boolean isVisibleSpanPassword	= WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Metrodata Academy/Login/span_Password wajib diisi'),2, FailureHandling.OPTIONAL)
+
+if(isVisibleSpanUser == true) {
+	println('Login Gagal - Email Kosong')
+	
+	'Login Gagal - Email Kosong'
+	WebUI.takeScreenshot()
+	WebUI.closeBrowser()
+	
+}else if(isVisibleSpanPassword == true) {
+	println('Login Gagal - Password Kosong')
+	
+	'Login Gagal - Password Kosong'
+	WebUI.takeScreenshot()	
+	WebUI.closeBrowser()
+	
+}
+else{
+	println('Login Berhasil')
+
+	'Login Berhasil'
+	WebUI.takeScreenshot()
+	
+	WebUI.delay(2)
+	
+	WebUI.takeScreenshot()
+	
+	WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/svg_Timothy Hutson_w-5 h-5 ml-1'))
+	
+	WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/Login/button_Keluar'))
+	
+	println('Logout Berhasil')
+	'Logout Berhasil'
+	WebUI.takeScreenshot()
+	WebUI.closeBrowser()
+}
+

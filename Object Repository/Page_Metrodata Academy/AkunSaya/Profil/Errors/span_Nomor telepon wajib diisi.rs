@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nomor telepon wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>33664a95-0d0b-4f83-b32d-0479ba57938b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[6]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b33bc768-84fe-45ca-aaab-06179d497f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500</value>
+      <webElementGuid>b9bc4b5e-13d3-49e7-adab-d6dd1fa01893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor telepon wajib diisi</value>
+      <webElementGuid>bc168f92-d342-47bb-abff-8cc006e1fb87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;flex flex-col lg:px-[108px] px-8 py-32 sm:flex-row gap-x-[30px] sm:items-start&quot;]/div[2]/form[@class=&quot;pb-8 divide-y divide-[#5D5D5D] lg:pb-24&quot;]/div[@class=&quot;grid grid-cols-1 pb-8 lg:pb-10 max-w-7xl md:grid-cols-3 gap-[30px]&quot;]/div[@class=&quot;md:col-span-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-6 lg:px-0 sm:grid-cols-6&quot;]/div[@class=&quot;col-span-3 sm:col-span-full&quot;]/div[@class=&quot;flex mt-4 text-sm&quot;]/span[@class=&quot;text-red-500&quot;]</value>
+      <webElementGuid>2d5f31e9-da97-43dc-962f-1e9b78a7ce6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/form/div/div[2]/div/div[6]/div[2]/span</value>
+      <webElementGuid>eb71f551-9e76-4fc6-a0e1-3d2cc219ee8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[2]</value>
+      <webElementGuid>47182ca8-6e47-498b-8fc9-3cf764c45865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[1]</value>
+      <webElementGuid>fdbe289c-855a-4ae2-bd74-bdd954fbcac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor telepon wajib diisi']/parent::*</value>
+      <webElementGuid>330bbd60-86b5-4dd7-8145-00394775935a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/span</value>
+      <webElementGuid>feb030c2-8d9f-45e4-8e7f-bae25ddcf3a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nomor telepon wajib diisi' or . = 'Nomor telepon wajib diisi')]</value>
+      <webElementGuid>e184897e-649e-4805-9c2a-5d0e0da9c1bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

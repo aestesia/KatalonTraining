@@ -22,6 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
+      <webElementGuid>5f635164-2206-4271-8361-37402aef4a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>fdf795a1-b8ac-411a-90dc-a2fb7941f68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>e4ec48bb-c52d-4d57-8dae-93f043cb6b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a829820b-3223-4eb6-9dc8-375ef9292902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>c608a2ef-3cd9-424f-9a77-d9a7065f3f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2b019c12-39cf-42c2-b26e-fe89cb822b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-5 h-5 ml-1</value>
+      <webElementGuid>fe2b6598-7b2a-45de-8ee2-cd7f43e3c47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>5a270cae-1f75-4c3d-9b92-6910b53711df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>7d85fd11-2a1d-4694-b033-fee1b5bdbb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>df6196e4-feaf-4621-ba5a-c296b652d203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-button-:r3:&quot;)/svg[@class=&quot;w-5 h-5 ml-1&quot;]</value>
+      <webElementGuid>56c2670e-f68a-447b-b2c5-6d7b93973cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
       <webElementGuid>f7465b46-2ce6-4b10-9d78-db5a6057ee45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -97,7 +185,7 @@
       <webElementGuid>bc5a49d0-f030-4485-a12a-2b91ec5bdb48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -110,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Timothy Hutson'])[1]//*[name()='svg'][1]</value>
-      <webElementGuid>ac2bf8f2-b531-4ea7-98f5-464e4c974d8c</webElementGuid>
+      <webElementGuid>22137135-89b6-4c2d-8e91-1892513efa40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>0312caae-0741-4de4-8bcb-e0287b68ad42</webElementGuid>
+      <webElementGuid>0a5089cb-a942-4d41-a9be-e127856373c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +214,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='with Metrodata Academy'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>b09d2e4d-b3ef-4a87-998d-3819331806a6</webElementGuid>
+      <webElementGuid>5c2d3b89-2e58-4879-a93d-b0f0e9ab9f08</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
