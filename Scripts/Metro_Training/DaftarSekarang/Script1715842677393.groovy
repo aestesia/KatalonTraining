@@ -20,13 +20,26 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('https://metrodataacademy.id/')
 WebUI.maximizeWindow()
 WebUI.click(findTestObject('Object Repository/Btn_Masuk'))
+'Input Email dan Password'
+WebUI.takeFullPageScreenshot()
 WebUI.setText(findTestObject('Object Repository/Email'), 'boyytesting123@gmail.com')
 WebUI.setText(findTestObject('Object Repository/Password'), 'sihombing98')
+'Berhasil input Email dan Password dan klik button Masuk'
+WebUI.takeFullPageScreenshot()
 WebUI.click(findTestObject('Object Repository/Sign_In'))
+'Berhasil Login'
+WebUI.takeScreenshot()
 WebUI.delay(3)
+'Klik Button Program'
+WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Training/Program'))
+'Klik Metrodata Training'
+WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Training/M_Training'))
-'Pilih Training yang Sedang Berlangsung'
+WebUI.scrollToElement(findTestObject('Object Repository/Training/ScrollText'), 0)
 WebUI.verifyTextPresent('Training yang Sedang Berlangsung', false)
+'Pilih Training yang Sedang Berlangsung'
+WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Training/DaftarSekarang'))
-
+'Berhasil ke tap browser yang baru'
+WebUI.takeScreenshot()
