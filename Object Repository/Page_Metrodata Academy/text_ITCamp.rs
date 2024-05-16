@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Lihat Program</name>
+   <name>text_ITCamp</name>
    <tag></tag>
-   <elementGuidId>996e96ab-feed-47ea-b891-95890061a0d0</elementGuidId>
+   <elementGuidId>2aa5691e-93a4-4649-a1aa-f96e06107fa6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/div/div[1]/div/div/div/div/button/span</value>
+         <value>//*[@id=&quot;section-lihat-program&quot;]/div/div/div/div[2]/div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>

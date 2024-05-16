@@ -1,4 +1,6 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import org.openqa.selenium.JavascriptExecutor
+import com.kms.katalon.core.webui.driver.DriverFactory
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -16,7 +18,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -39,17 +40,31 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://metrodataacademy.id/')
 
+
+
+WebUI.navigateToUrl('https://metrodataacademy.id/')
+ //Mendapatkan instance dari WebDriver
+//def driver = DriverFactory.getWebDriver()
+//
+//// Mengatur skala viewport browser menggunakan JavaScript Executor
+//((JavascriptExecutor)driver).executeScript("document.body.style.zoom = '80%'")
+
+WebUI.takeScreenshot()
+
+WebUI.delay(2)
+//WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/span_Lihat Program'), 0)
 'klik lihat program'
-WebUI.takeFullPageScreenshot()
-WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/span_Lihat Program'))
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Lihat Program'))
 WebUI.comment('Tampilan menu program')
 
 
+//WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Metrodata Academy/text_ITCamp'), 10)
+//WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/text_ITCamp'), 10)
+
 'Lihat detail'
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/detail_ITCamp'))
-WebUI.takeFullPageScreenshot()
+WebUI.takeScreenshot()
 
 'klik header metrodata'
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/btn_metrodata'))
@@ -66,14 +81,20 @@ WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/btn_metroda
 //WebUI.takeFullPageScreenshot()
 
 'klik lihat program'
-WebUI.takeFullPageScreenshot()
+WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/span_Lihat Program'))
 WebUI.comment('Tampilan menu program')
 
+// Mendefinisikan nilai posisi vertikal yang diinginkan
+//def desiredVerticalPosition = 300 // Misalnya, menggulir ke atas sejauh 500 piksel dari bagian atas halaman
+
+// Menggulir halaman ke atas dengan posisi vertikal tertentu
+//WebUI.scrollToPosition(0, desiredVerticalPosition)
+//WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/detail_internship'), 25)
 
 'Lihat detail'
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/detail_internship'))
-WebUI.takeFullPageScreenshot()
+WebUI.takeScreenshot()
 
 
 
