@@ -49,24 +49,29 @@ WebUI.navigateToUrl('https://metrodataacademy.id/')
 //
 //// Mengatur skala viewport browser menggunakan JavaScript Executor
 //((JavascriptExecutor)driver).executeScript("document.body.style.zoom = '80%'")
-
+WebUI.comment('Tampilan halaman utama')
 WebUI.takeScreenshot()
 
 WebUI.delay(2)
 //WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/span_Lihat Program'), 0)
 'klik lihat program'
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/button_Lihat Program'))
-WebUI.comment('Tampilan menu program')
+WebUI.delay(3)
+WebUI.takeScreenshot()
 
 
 //WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Metrodata Academy/text_ITCamp'), 10)
 //WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/text_ITCamp'), 10)
 
 'Lihat detail'
+
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/detail_ITCamp'))
-WebUI.takeScreenshot()
+WebUI.comment('klik detail IT Camp')
+WebUI.takeFullPageScreenshot()
 
 'klik header metrodata'
+WebUI.comment('klik image Metrodata pada navbar')
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/btn_metrodata'))
 
 //'Page Metrodata IT Camp'
@@ -81,9 +86,10 @@ WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/btn_metroda
 //WebUI.takeFullPageScreenshot()
 
 'klik lihat program'
+WebUI.comment('Tampilan halaman Utama klik Lihat program')
 WebUI.takeScreenshot()
 WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/span_Lihat Program'))
-WebUI.comment('Tampilan menu program')
+
 
 // Mendefinisikan nilai posisi vertikal yang diinginkan
 //def desiredVerticalPosition = 300 // Misalnya, menggulir ke atas sejauh 500 piksel dari bagian atas halaman
@@ -91,10 +97,12 @@ WebUI.comment('Tampilan menu program')
 // Menggulir halaman ke atas dengan posisi vertikal tertentu
 //WebUI.scrollToPosition(0, desiredVerticalPosition)
 //WebUI.scrollToElement(findTestObject('Object Repository/Page_Metrodata Academy/detail_internship'), 25)
-
-'Lihat detail'
-WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/detail_internship'))
+WebUI.delay(3)
 WebUI.takeScreenshot()
+'Lihat detail'
+WebUI.comment('klik lihat detail')
+WebUI.click(findTestObject('Object Repository/Page_Metrodata Academy/detail_internship'))
+WebUI.takeFullPageScreenshot()
 
 
 
