@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>3f6456d2-40b0-41e8-a5e1-d05799ea28f0</testSuiteGuid>
    <testCaseLink>
-      <guid>e98eabf6-2030-48cc-9852-5f49bad0ba30</guid>
+      <guid>b7002cba-6cb8-4c5c-8b4c-0139ceef4e2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/PageInternshipITCamp</testCaseId>
