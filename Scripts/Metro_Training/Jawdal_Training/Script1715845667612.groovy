@@ -43,3 +43,4 @@ WebUI.delay(2)
 'Klik Menu Metrodata Internship'
 WebUI.click(findTestObject('Object Repository/Training/Metrodata Internship'))
 WebUI.delay(2)
+WebUI.click(findTestObject('Object Repository/TentangKami/HomeMetro'))
